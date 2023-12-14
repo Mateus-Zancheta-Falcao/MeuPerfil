@@ -45,7 +45,8 @@ a p {
 }
 
 img {
-    width: 310px;
+    width: 510px;
+    border-radius: 8px;
 }
 
 section {
